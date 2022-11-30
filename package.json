@@ -1,7 +1,7 @@
 {
   "name": "backend-ecommerce",
   "version": "0.1.0",
-  "description": "groffers-nepal",
+  "description": "blah",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js --exec babel-node --presets @babel/env",
